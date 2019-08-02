@@ -1,0 +1,14 @@
+{
+  "name": "snips-action-runner-hook",
+  "version": "0.0.1",
+  "description": "Link snips-action-runner with snips-skill-server",
+  "main": "action-runner",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Snips <https://snips.ai>",
+  "license": "MIT",
+  "dependencies": {
+    "snips-actions-runner": "^1.0.3"
+  }
+}
