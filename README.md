@@ -4,7 +4,7 @@
 
 This hook allows `snips-skill-server` execute `snips-actions-runner` for running Snips actions which are wroten in Node.JS.
 
-### Installation
+## Installation
 
 ```
 git clone https://github.com/snipsco/snips-actions-runner-hook.git
@@ -15,6 +15,7 @@ cd snips-actions-runner-hook
 ## Tips
 
 1/ This hook can be installed as a normal snips action code
+
 2/ All the Node.JS actions need to be isntalled on branch `use-toolkit`
 
 ## Contributing
